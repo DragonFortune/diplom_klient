@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cards"
+        android:title="cards"
+        android:icon="@drawable/cards"/>
+    <item
+        android:id="@+id/clock"
+        android:title="clock"
+        android:icon="@drawable/clock"/>
+    <item
+        android:id="@+id/fab"
+        android:title="" />
+    <item
+        android:id="@+id/calendar"
+        android:title="calendar"
+        android:icon="@drawable/calendar"/>
+    <item
+        android:id="@+id/account"
+        android:title="account"
+        android:icon="@drawable/outline_account_circle_24"/>
+
+</menu>
